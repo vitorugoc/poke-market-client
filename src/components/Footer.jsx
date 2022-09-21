@@ -3,10 +3,10 @@ export const Footer = () => {
         <footer class="bg-gray-800">
             <div class="grid grid-cols-2 gap-8 py-8 px-6 md:grid-cols-4">
                 <div>
-                    <h2 class="mb-6 text-sm font-semibold text-gray-400 uppercase">Company</h2>
+                    <h2 class="mb-6 text-sm font-semibold text-gray-400 uppercase">Companhia</h2>
                     <ul class="text-gray-300">
                         <li class="mb-4">
-                            <a href="#" className=" hover:underline">About</a>
+                            <a href="#" className=" hover:underline">Sobre</a>
                         </li>
                         <li class="mb-4">
                             <a href="#" className="hover:underline">Menu</a>
@@ -17,19 +17,19 @@ export const Footer = () => {
                     <h2 class="mb-6 text-sm font-semibold text-gray-400 uppercase">Legal</h2>
                     <ul class="text-gray-300">
                         <li class="mb-4">
-                            <a href="#" className="hover:underline">Privacy Policy</a>
+                            <a href="#" className="hover:underline">Politicas de Privacidade</a>
                         </li>
                         <li class="mb-4">
-                            <a href="#" className="hover:underline">Licensing</a>
+                            <a href="#" className="hover:underline">Licensas</a>
                         </li>
                         <li class="mb-4">
-                            <a href="#" className="hover:underline">Terms &amp; Conditions</a>
+                            <a href="#" className="hover:underline">Termos &amp; Conditions</a>
                         </li>
                     </ul>
                 </div>
             </div>
             <div class="py-6 px-4 bg-gray-700 md:flex md:items-center md:justify-between">
-                <span class="text-sm text-gray-300 sm:text-center">© 2022 Food Delivery. All Rights Reserved.
+                <span class="text-sm text-gray-300 sm:text-center">© 2022 Poke Market. All Rights Reserved.
                 </span>
             </div>
         </footer>
